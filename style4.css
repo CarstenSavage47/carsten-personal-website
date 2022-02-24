@@ -1,0 +1,67 @@
+h3{color:black;
+}
+
+nav {background-color:rgba(255, 255, 255, 0.712);
+height: 40px;
+width: 300px;
+margin-left:auto;
+margin-right:auto;
+padding-top: 10px;
+padding-bottom:10px; }
+
+
+main {background-color:rgba(21, 255, 0, 0.767);
+    height: 0px;
+    width: 0px; 
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    }
+header { background-color:rgba(255, 0, 0, 0);
+    text-align:center;
+    margin-left:center;
+background-size: small;
+padding-top:50px;
+    padding-bottom:50px;
+}
+
+
+footer {background-color:rgba(21, 243, 69, 0);
+        height: 0px;
+        width: 1000px;
+        margin-left:auto;
+        margin-right:auto; 
+        padding-bottom:50px;}
+
+.container {
+    margin-left:auto;
+    margin-right:auto;
+    background-color:rgba(5, 255, 47, 0);
+}
+body {
+    background-color: rgba(255, 0, 0, 0);
+    background-image: url();
+    background-image: url(Images/IMG_2368.JPG);
+    background-size:auto;
+    background-repeat:auto;
+    background-position:center;
+    text-align:center;
+}
+
+p { font-size : 18px;
+color:black;
+font-family: 'Times New Roman', Times, serif;}
+
+.no-underline {
+text-decoration: none;    
+}
+
+nav a {
+    text-decoration:none;
+}
+
+.maps {
+    padding-top:50px;
+    padding-bottom:50px;
+    
+}
