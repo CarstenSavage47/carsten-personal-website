@@ -1,14 +1,16 @@
 h3{color:black;
 }
 
-nav {background-color:rgba(255, 255, 255, 0.507);
+nav {background-color:rgba(255, 255, 255, 0);
 height: 25px;
 width: 300px;
 margin-left:auto;
 margin-right:auto;
 padding-top: 10px;
 padding-bottom:10px; }
-
+nav a {
+    color: white;
+}
 
 main {background-color:rgba(21, 255, 0, 0.767);
     height: 0px;
@@ -41,7 +43,7 @@ footer {background-color:rgba(21, 243, 69, 0);
 body {
     background-color: rgba(255, 0, 0, 0);
     background-image: url();
-    background-image: url();
+    background-image: url("Images/1142597.jpg");
     background-size:auto;
     background-repeat:auto;
     background-position:center;
